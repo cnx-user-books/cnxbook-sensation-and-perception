@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Jim Buuck">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12203</md:content-id>
     <md:title>Chapter 8: Sensation and Perception</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a247af73-3795-4713-a645-357c9de09082</md:uuid>
-<md:slug>sensation-and-perception</md:slug>
-</metadata>
+    <md:slug>sensation-and-perception</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m49039"/>
     <col:module document="m49040"/>
